@@ -558,4 +558,4 @@ async def daily(message, token=''):
 
 # noinspection SpellCheckingInspection
 client.loop.create_task(update_status())
-client.run('Nzk1Njk4OTEzOTgxODkwNjIw.X_NKXA.Bi6vOXoYLLngkUNF83mqdnzJ9hs')
+client.run('nice try')
